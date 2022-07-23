@@ -1,2 +1,21 @@
 
+html {
+    width: 100%;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+body {
+    width: 100%;
+    position: relative;
+    overflow-x: hidden;
+}
+body.active {
+    overflow: hidden;
+}
+
+.App {
+    overflow-x: hidden;
+    width: 100%;
+}
 

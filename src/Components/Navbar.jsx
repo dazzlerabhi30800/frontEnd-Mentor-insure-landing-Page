@@ -24,7 +24,7 @@ function Navbar() {
 
     window.addEventListener('resize', resizeNavbar)
   return (
-    <nav className="py-4 px-6 flex justify-between items-center shadow-md relative">
+    <nav className="navbar py-4 px-6 flex justify-between md:justify-evenly items-center shadow-md relative">
       <div className="logo--img cursor-pointer ">
         <img src="./images/logo.svg" alt="" />
       </div>
