@@ -252,7 +252,7 @@ footer hr {
   text-decoration: underline;
 }
 
-@media Screen and (min-width: 992px) {
+@media Screen and (min-width: 768px) {
   .link--container {
     position: relative;
     width: 70%;
