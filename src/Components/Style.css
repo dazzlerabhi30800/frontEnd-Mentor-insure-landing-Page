@@ -50,7 +50,7 @@ body.active {
 }
 .link--container button {
   letter-spacing: 3px;
-  border: 2px solid var(--Very-Light-Gray);
+  border: 1px solid var(--Very-Light-Gray);
   padding: 7px 10px;
   width: 90%;
   transition: all 0.3s linear;
